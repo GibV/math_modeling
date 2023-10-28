@@ -1,0 +1,10 @@
+{
+    "start_r": 0,
+    "start_v": 2,
+    "iterations": 10000000.0,
+    "delta_t": 0.1,
+    "omega": 1,
+    "output_file": "output.txt",
+    "write_freq": 10000.0,
+    "mode": "math"
+}
